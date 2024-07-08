@@ -1,0 +1,24 @@
+{
+  "CPU": {
+    "Algorithm": "",
+    "ExcludeAlgorithm": "",
+    "MinerName": "",
+    "ExcludeMinerName": "",
+    "DisableDualMining": "",
+    "DefaultOCprofile": "",
+    "PowerAdjust": "100",
+    "Worker": "",
+    "EnableLHR": ""
+  },
+  "RTX4090": {
+    "DefaultOCprofile": "Profile2",
+    "Algorithm": "",
+    "ExcludeAlgorithm": "",
+    "MinerName": "",
+    "ExcludeMinerName": "",
+    "DisableDualMining": "",
+    "PowerAdjust": "100",
+    "Worker": "",
+    "EnableLHR": ""
+  }
+}
